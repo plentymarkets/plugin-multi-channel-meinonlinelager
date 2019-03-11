@@ -1,7 +1,21 @@
 
-# Netto
+# meinOnlineLager.de
 
 <div class="container-toc"></div>
 
-The Nes GmbH - Netto eStores is an e-commerce platform owned by Netto Markendiscount AG & Co. KG. Apart from the Netto online shop, the Nes GmbH also operates the Plus shop www.plus.de and the gardening shops www.gartenxxl.de and www.gartenxxl.at. The netto online shop offers a large range of products, including the product categories food & cosmetics, living & furniture, technology & multimedia, garden & balcony, construction & DIY, as well as sport and leisure items.
+meinOnlineLager.de is a marketplace which can be easily set up and configured.
 
+**Doing business the easy way**
+
+* Quick & simple start
+* Affordable and transparent fees
+* Product marketing included
+* Simple checkout - your customers pay directly into your accounts
+
+**Easily connecting with meinOnlineLager.de**
+
+Simply link your shop to meinOnlineLager.de. Items and stock can be set up in your plentymarkets system without additional effort.
+
+* Simple setup
+* Automatic item and stock synchronisation
+* Central order management

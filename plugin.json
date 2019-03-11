@@ -1,22 +1,23 @@
 {
   "version": "1.0.0",
-  "name": "meinonlinelager",
+  "name": "meinOnlineLager",
   "marketplaceName": {
-    "de": "meinonlinelager.de",
-    "en": "meinonlinelager.de"
+    "de": "meinOnlineLager.de",
+    "en": "meinOnlineLager.de"
   },
-  "description": "",
+  "description": "meinOnlineLager.de ist ein Marktplatz, der sich durch die simple Einrichtung und die einfache Abwicklung aller Prozesse auszeichnet.",
   "namespace": "MeinOnlineLager",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "meinonlinelager",
+  "author": "meinOnlineLager.de",
+  "email": "",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "",
-    "en": ""
+    "de": "meinOnlineLager.de ist ein Marktplatz, der sich durch die simple Einrichtung und die einfache Abwicklung aller Prozesse auszeichnet.",
+    "en": "meinOnlineLager.de is a marketplace which can be easily set up and configured."
   },
   "license": "-",
   "categories": [
-    3523
+    3881
   ],
   "price": 0.00,
   "type": "plentyinfo"
